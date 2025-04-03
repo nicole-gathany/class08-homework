@@ -1,0 +1,31 @@
+nav div {
+   float: left;
+   width: 33%;
+}
+
+nav > div > a{
+ float: left;
+ width: 50%;
+}
+
+nav ul li {
+    list-style: none;
+    float: left;
+    width: 30%;
+    
+}
+
+img {
+    width: 90%;
+}
+
+main > div > ul > li {
+    list-style: none;
+    float: left;
+    width: 25%;
+}
+
+main > div {
+    float: left;
+    width: 50%;
+}
