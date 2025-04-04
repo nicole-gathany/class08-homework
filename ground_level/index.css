@@ -1,0 +1,18 @@
+nav > ul > li {
+    float: left;
+    list-style: none;
+    width: 5%;
+}
+
+h1, h3 {
+    text-transform: uppercase;
+}
+
+section div {
+    float: left;
+    width: 50%;
+}
+
+section div img {
+    width: 90%;
+}
