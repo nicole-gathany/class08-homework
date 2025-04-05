@@ -1,18 +1,67 @@
-nav > ul > li {
+header > nav > ul > li {
     float: left;
     list-style: none;
-    width: 5%;
+    width: 7%;
 }
 
-h1, h3 {
+header {
+
+}
+
+article {
+    clear: both;
+}
+/* index.css */
+footer >div> nav > div > ul > li {
+    float: left;
+    list-style: none;
+    width: 12%;
+    
+}
+
+footer > div > nav > div + div {
+    clear: both;
+}
+
+footer div nav {
+    float: left;
+    width: 40%;
+}
+
+footer {
+    background-color: turquoise;
+    /* width: 100%; */
+    height: 300px;
+}
+
+/* footer nav div h3 {
+    border: 0;
+} */
+
+footer nav div ul li a {
+    text-transform: capitalize;
+}
+
+h1, h2, h3, a{
     text-transform: uppercase;
 }
 
-section div {
+main div {
     float: left;
     width: 50%;
+    
 }
 
-section div img {
+
+main div img {
     width: 90%;
 }
+
+section {
+    padding:  0 500px;
+}
+
+
+/* nav a {
+    color: 
+} */
