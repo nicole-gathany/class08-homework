@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+header div {
+   float: left;
+   width: 33%
+}
+
+header div ul li {
+    float: left;
+    width: 25%;
+    list-style: none;
+}
+
+header div button {
+    float: right;
+}
+
+main{
+    clear: both;
+   
+}
+
+main > div {
+    float: left;
+    width: 50%
+}
+
+section {
+    clear: both;
+}
+
+section div {
+    float: left;
+    width: 25%;
+}
+
+
+
